@@ -1,0 +1,262 @@
+﻿Question	Answer	Source
+Executor	starships/1	starships.txt
+Sentinel-class landing craft	starships/2	starships.txt
+Death Star	starships/3	starships.txt
+Millennium Falcon	starships/4	starships.txt
+Y-wing	starships/5	starships.txt
+X-wing	starships/6	starships.txt
+TIE Advanced x1	starships/7	starships.txt
+Slave 1	starships/8	starships.txt
+Imperial shuttle	starships/9	starships.txt
+EF76 Nebulon-B escort frigate	starships/10	starships.txt
+Calamari Cruiser	starships/11	starships.txt
+A-wing	starships/12	starships.txt
+B-wing	starships/13	starships.txt
+Republic Cruiser	starships/14	starships.txt
+Naboo fighter	starships/15	starships.txt
+Naboo Royal Starship	starships/16	starships.txt
+Scimitar	starships/17	starships.txt
+J-type diplomatic barge	starships/18	starships.txt
+AA-9 Coruscant freighter	starships/19	starships.txt
+Jedi starfighter	starships/20	starships.txt
+H-type Nubian yacht	starships/21	starships.txt
+Star Destroyer	starships/22	starships.txt
+Trade Federation cruiser	starships/23	starships.txt
+Theta-class T-2c shuttle	starships/24	starships.txt
+T-70 X-wing fighter	starships/25	starships.txt
+Rebel transport	starships/26	starships.txt
+Droid control ship	starships/27	starships.txt
+Republic Assault ship	starships/28	starships.txt
+Solar Sailer	starships/29	starships.txt
+Republic attack cruiser	starships/30	starships.txt
+Naboo star skiff	starships/31	starships.txt
+Jedi Interceptor	starships/32	starships.txt
+arc-170	starships/33	starships.txt
+Belbullab-22 starfighter	starships/34	starships.txt
+V-wing	starships/35	starships.txt
+CR90 corvette	starships/36	starships.txt
+Banking clan frigate	starships/37	starships.txt
+Alderaan	planets/1	planets.txt
+Yavin IV	planets/2	planets.txt
+Hoth	planets/3	planets.txt
+Dagobah	planets/4	planets.txt
+Bespin	planets/5	planets.txt
+Endor	planets/6	planets.txt
+Naboo	planets/7	planets.txt
+Coruscant	planets/8	planets.txt
+Kamino	planets/9	planets.txt
+Geonosis	planets/10	planets.txt
+Utapau	planets/11	planets.txt
+Mustafar	planets/12	planets.txt
+Kashyyyk	planets/13	planets.txt
+Polis Massa	planets/14	planets.txt
+Mygeeto	planets/15	planets.txt
+Felucia	planets/16	planets.txt
+Cato Neimoidia	planets/17	planets.txt
+Saleucami	planets/18	planets.txt
+Stewjon	planets/19	planets.txt
+Eriadu	planets/20	planets.txt
+Corellia	planets/21	planets.txt
+Rodia	planets/22	planets.txt
+Nal Hutta	planets/23	planets.txt
+Dantooine	planets/24	planets.txt
+Bestine IV	planets/25	planets.txt
+Ord Mantell	planets/26	planets.txt
+unknown	planets/27	planets.txt
+Trandosha	planets/28	planets.txt
+Socorro	planets/29	planets.txt
+Mon Cala	planets/30	planets.txt
+Chandrila	planets/31	planets.txt
+Sullust	planets/32	planets.txt
+Toydaria	planets/33	planets.txt
+Malastare	planets/34	planets.txt
+Dathomir	planets/35	planets.txt
+Ryloth	planets/36	planets.txt
+Aleen Minor	planets/37	planets.txt
+Vulpter	planets/38	planets.txt
+Troiken	planets/39	planets.txt
+Tund	planets/40	planets.txt
+Haruun Kal	planets/41	planets.txt
+Cerea	planets/42	planets.txt
+Glee Anselm	planets/43	planets.txt
+Iridonia	planets/44	planets.txt
+Tholoth	planets/45	planets.txt
+Iktotch	planets/46	planets.txt
+Quermia	planets/47	planets.txt
+Dorin	planets/48	planets.txt
+Champala	planets/49	planets.txt
+Mirial	planets/50	planets.txt
+Serenno	planets/51	planets.txt
+Concord Dawn	planets/52	planets.txt
+Zolan	planets/53	planets.txt
+Ojom	planets/54	planets.txt
+Skako	planets/55	planets.txt
+Muunilinst	planets/56	planets.txt
+Shili	planets/57	planets.txt
+Kalee	planets/58	planets.txt
+Umbara	planets/59	planets.txt
+Tatooine	planets/60	planets.txt
+Jakku	planets/61	planets.txt
+Sand Crawler	vehicles/1	vehicles.txt
+T-16 skyhopper	vehicles/2	vehicles.txt
+X-34 landspeeder	vehicles/3	vehicles.txt
+TIE/LN starfighter	vehicles/4	vehicles.txt
+Snowspeeder	vehicles/5	vehicles.txt
+TIE bomber	vehicles/6	vehicles.txt
+AT-AT	vehicles/7	vehicles.txt
+AT-ST	vehicles/8	vehicles.txt
+Storm IV Twin-Pod cloud car	vehicles/9	vehicles.txt
+Sail barge	vehicles/10	vehicles.txt
+Bantha-II cargo skiff	vehicles/11	vehicles.txt
+TIE/IN interceptor	vehicles/12	vehicles.txt
+Imperial Speeder Bike	vehicles/13	vehicles.txt
+Vulture Droid	vehicles/14	vehicles.txt
+Multi-Troop Transport	vehicles/15	vehicles.txt
+Armored Assault Tank	vehicles/16	vehicles.txt
+Single Trooper Aerial Platform	vehicles/17	vehicles.txt
+C-9979 landing craft	vehicles/18	vehicles.txt
+Tribubble bongo	vehicles/19	vehicles.txt
+Sith speeder	vehicles/20	vehicles.txt
+Zephyr-G swoop bike	vehicles/21	vehicles.txt
+Koro-2 Exodrive airspeeder	vehicles/22	vehicles.txt
+XJ-6 airspeeder	vehicles/23	vehicles.txt
+LAAT/i	vehicles/24	vehicles.txt
+LAAT/c	vehicles/25	vehicles.txt
+Tsmeu-6 personal wheel bike	vehicles/26	vehicles.txt
+Emergency Firespeeder	vehicles/27	vehicles.txt
+Droid tri-fighter	vehicles/28	vehicles.txt
+Oevvaor jet catamaran	vehicles/29	vehicles.txt
+Raddaugh Gnasp fluttercraft	vehicles/30	vehicles.txt
+Clone turbo tank	vehicles/31	vehicles.txt
+Corporate Alliance tank droid	vehicles/32	vehicles.txt
+Droid gunship	vehicles/33	vehicles.txt
+AT-RT	vehicles/34	vehicles.txt
+AT-TE	vehicles/35	vehicles.txt
+SPHA	vehicles/36	vehicles.txt
+Flitknot speeder	vehicles/37	vehicles.txt
+Neimoidian shuttle	vehicles/38	vehicles.txt
+Geonosian starfighter	vehicles/39	vehicles.txt
+Hutt	species/1	species.txt
+Yoda's species	species/2	species.txt
+Trandoshan	species/3	species.txt
+Mon Calamari	species/4	species.txt
+Ewok	species/5	species.txt
+Sullustan	species/6	species.txt
+Neimodian	species/7	species.txt
+Gungan	species/8	species.txt
+Toydarian	species/9	species.txt
+Dug	species/10	species.txt
+Twi'lek	species/11	species.txt
+Aleena	species/12	species.txt
+Vulptereen	species/13	species.txt
+Xexto	species/14	species.txt
+Toong	species/15	species.txt
+Cerean	species/16	species.txt
+Nautolan	species/17	species.txt
+Zabrak	species/18	species.txt
+Tholothian	species/19	species.txt
+Iktotchi	species/20	species.txt
+Quermian	species/21	species.txt
+Kel Dor	species/22	species.txt
+Chagrian	species/23	species.txt
+Geonosian	species/24	species.txt
+Mirialan	species/25	species.txt
+Clawdite	species/26	species.txt
+Besalisk	species/27	species.txt
+Kaminoan	species/28	species.txt
+Skakoan	species/29	species.txt
+Muun	species/30	species.txt
+Togruta	species/31	species.txt
+Kaleesh	species/32	species.txt
+Pau'an	species/33	species.txt
+Wookiee	species/34	species.txt
+Droid	species/35	species.txt
+Human	species/36	species.txt
+Rodian	species/37	species.txt
+Luke Skywalker	people/1	people.txt
+C-3PO	people/2	people.txt
+R2-D2	people/3	people.txt
+Darth Vader	people/4	people.txt
+Leia Organa	people/5	people.txt
+Owen Lars	people/6	people.txt
+Beru Whitesun lars	people/7	people.txt
+R5-D4	people/8	people.txt
+Biggs Darklighter	people/9	people.txt
+Obi-Wan Kenobi	people/10	people.txt
+Anakin Skywalker	people/11	people.txt
+Wilhuff Tarkin	people/12	people.txt
+Chewbacca	people/13	people.txt
+Han Solo	people/14	people.txt
+Greedo	people/15	people.txt
+Jabba Desilijic Tiure	people/16	people.txt
+Wedge Antilles	people/17	people.txt
+Jek Tono Porkins	people/18	people.txt
+Yoda	people/19	people.txt
+Palpatine	people/20	people.txt
+Boba Fett	people/21	people.txt
+IG-88	people/22	people.txt
+Bossk	people/23	people.txt
+Lando Calrissian	people/24	people.txt
+Lobot	people/25	people.txt
+Ackbar	people/26	people.txt
+Mon Mothma	people/27	people.txt
+Arvel Crynyd	people/28	people.txt
+Wicket Systri Warrick	people/29	people.txt
+Nien Nunb	people/30	people.txt
+Qui-Gon Jinn	people/31	people.txt
+Nute Gunray	people/32	people.txt
+Finis Valorum	people/33	people.txt
+Jar Jar Binks	people/34	people.txt
+Roos Tarpals	people/35	people.txt
+Rugor Nass	people/36	people.txt
+Ric Olié	people/37	people.txt
+Watto	people/38	people.txt
+Sebulba	people/39	people.txt
+Quarsh Panaka	people/40	people.txt
+Shmi Skywalker	people/41	people.txt
+Darth Maul	people/42	people.txt
+Bib Fortuna	people/43	people.txt
+Ayla Secura	people/44	people.txt
+Dud Bolt	people/45	people.txt
+Gasgano	people/46	people.txt
+Ben Quadinaros	people/47	people.txt
+Mace Windu	people/48	people.txt
+Ki-Adi-Mundi	people/49	people.txt
+Kit Fisto	people/50	people.txt
+Eeth Koth	people/51	people.txt
+Adi Gallia	people/52	people.txt
+Saesee Tiin	people/53	people.txt
+Yarael Poof	people/54	people.txt
+Plo Koon	people/55	people.txt
+Mas Amedda	people/56	people.txt
+Gregar Typho	people/57	people.txt
+Cordé	people/58	people.txt
+Cliegg Lars	people/59	people.txt
+Poggle the Lesser	people/60	people.txt
+Luminara Unduli	people/61	people.txt
+Barriss Offee	people/62	people.txt
+Dormé	people/63	people.txt
+Dooku	people/64	people.txt
+Bail Prestor Organa	people/65	people.txt
+Jango Fett	people/66	people.txt
+Zam Wesell	people/67	people.txt
+Dexter Jettster	people/68	people.txt
+Lama Su	people/69	people.txt
+Taun We	people/70	people.txt
+Jocasta Nu	people/71	people.txt
+Ratts Tyerell	people/72	people.txt
+R4-P17	people/73	people.txt
+Wat Tambor	people/74	people.txt
+San Hill	people/75	people.txt
+Shaak Ti	people/76	people.txt
+Grievous	people/77	people.txt
+Tarfful	people/78	people.txt
+Raymus Antilles	people/79	people.txt
+Sly Moore	people/80	people.txt
+Tion Medon	people/81	people.txt
+Finn	people/82	people.txt
+Rey	people/83	people.txt
+Poe Dameron	people/84	people.txt
+BB8	people/85	people.txt
+Captain Phasma	people/86	people.txt
+Padmé Amidala	people/87	people.txt
